@@ -1,0 +1,31 @@
+.event__flex{
+    display: flex;
+}
+.event__text{
+    padding: 30px 10px;
+}
+.event__foto-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.event__img{
+    width: auto;
+    height: 230px;
+   
+}
+._box{
+    width: 1200px;
+    margin: 20px auto;
+}
+.event__foto-flex-1{
+    display: flex;
+  justify-content: center;
+}
+.event__img-1{
+    height: 390px;
+}
+.event-text{
+    margin: 20px 0;
+}
